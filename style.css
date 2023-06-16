@@ -1,0 +1,19 @@
+#heading {
+    font-family: Monaco;
+    text-align: center;
+    background-color: darkslategrey;
+    
+   
+    
+}
+#welcome{
+    margin: 30px;
+    padding: 10px ;
+    border: 1px dotted black;
+    width: auto;
+}
+#link {
+    text-decoration: none;
+    color: wheat;
+}
+
